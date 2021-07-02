@@ -7,7 +7,7 @@
 Сначала получите скрипт и сделайте его исполняемым:
 
 ```bash
-git clone https://github.com/vklepko/openvpn.git
+git clone https://github.com/vlad-klepko/openvpn.git
 cd openvpn/
 chmod +x openvpn-install-vklepko.sh
 ```
